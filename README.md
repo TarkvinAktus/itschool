@@ -1,7 +1,7 @@
 ### README ###
 ## IT school project ##
 This is my little study project. I've started it in september 2018 with my friend Andrey (https://github.com/MobileLookFree) who created almost all frontend part of this project. You can find his frontend repo here -->(https://github.com/MobileLookFree/itschool).
-This project has stoped in december 2018 and now i just learning git(i've never used it before) and maybe try to finished this :smile:.
+This project has stoped in december 2018 and now i'm learning git (i've never used it before) and maybe try to finish this project:smile:.
 
 ### How do I set up ? ###
 
