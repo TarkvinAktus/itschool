@@ -1,0 +1,8 @@
+.footer-back {
+    width: 100%;
+    background: rgb(80, 80, 80);
+    min-height: 131px;
+    margin: 0;
+    padding-top: 65px;
+    bottom: 0;
+}

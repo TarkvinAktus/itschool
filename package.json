@@ -1,0 +1,35 @@
+{
+	"scripts": {
+		"start": "webpack-dev-server — mode development — open — hot",
+		"build": "webpack — mode production"
+	},
+	"dependencies": {
+		"@babel/core": "^7.2.0",
+		"@babel/preset-env": "^7.2.0",
+		"@babel/preset-react": "^7.0.0",
+		"babel-loader": "^8.0.4",
+		"babel-plugin-transform-class-properties": "^6.24.1",
+		"babel-plugin-transform-object-rest-spread": "^6.26.0",
+		"babel-preset-react": "^6.24.1",
+		"esprima-fb": "^15001.1001.0-dev-harmony-fb",
+		"flux": "latest",
+		"history": "^4.7.2",
+		"jstransform": "^11.0.3",
+		"react": "^16.6.3",
+		"react-dom": "^16.6.3",
+		"react-hot-loader": "^4.3.12",
+		"react-router": "^4.3.1",
+		"react-router-dom": "^4.3.1",
+		"url-loader": "latest",
+		"webpack": "latest",
+		"webpack-cli": "^3.1.2"
+	},
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-preset-env": "^1.7.0",
+		"css-loader": "^2.0.0",
+		"jsx-loader": "^0.13.2",
+		"style-loader": "^0.23.1",
+		"webpack-dev-server": "^3.1.10"
+	}
+}

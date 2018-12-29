@@ -1,0 +1,24 @@
+.home-button{
+    float: left;
+    min-width: 32px;
+    height: 32px;
+    background: #2669f0;
+    border-radius: 16px;
+    margin: 16px;
+    transition: 0.5s ease;
+    cursor: pointer;
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+.home-button .material-icons {
+    color: white;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px;
+}
+
+.home-button:hover {
+    background: #32cbfa;
+    transform: scale(1.3);
+}
