@@ -10,6 +10,6 @@ This project has stoped in december 2018 and now i just learning git(i've never 
 
 ### How do I start the application ? ###
 
-* Build : webpack --progress --colors -p --watch
+* Build : webpack 
 * Run   : go run server.go
 * Navigate to http://localhost:3000/
